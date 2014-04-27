@@ -1,7 +1,7 @@
 {
   "name": "url-expand",
   "description": "Simple and efficient URL expander.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Scott Smith",
   "homepage": "https://github.com/scottksmith95/url-expand",
   "keywords": [
