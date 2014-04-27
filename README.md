@@ -17,9 +17,9 @@ npm install url-expand
 ##Usage
 
 ```JavaScript
-var url-expand = require('url-expand');
+var urlExpand = require('url-expand');
 
-url-expand('http://bit.ly/1fiiaIg', function (err, url) {
+urlExpand('http://bit.ly/1fiiaIg', function (err, url) {
   console.log(url);
 });
 ```
