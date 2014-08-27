@@ -1,6 +1,6 @@
 {
   "name": "url-expand",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Simple and efficient URL expander.",
   "main": "app.js",
   "author": "Scott Smith",
@@ -12,7 +12,8 @@
     "expander"
   ],
   "dependencies": {
-    "request": "^2.40.0"
+    "request": "^2.40.0",
+    "tough-cookie": "^0.12.1"
   },
   "repository": {
     "type": "git",
