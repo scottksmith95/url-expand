@@ -9,6 +9,7 @@ module.exports = function (shortUrl, callback) {
     method: 'GET',
     url: shortUrl,
     followAllRedirects: true,
+    rejectUnauthorized: false,
     headers: { 
       'User-Agent': useragent
     },
